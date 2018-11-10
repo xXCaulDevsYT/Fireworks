@@ -1,0 +1,5 @@
+name: FireworksFix
+main: EmeraldMC\Fireworks\Loader
+api: 3.0.0
+version: 1.0
+author: EmeraldMC
